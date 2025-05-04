@@ -32,3 +32,11 @@ Here are some ideas to get you started:
  <source media ="(prefers-color-scheme: light)" srcset ="https://raw.githubusercontent.com/dintonesia/dintonesia/output/github-snake.svg" />
  <img alt ="github-snake" src="https://raw.githubusercontent.com/dintonesia/output/github-snake.svg" />
 </picture>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dintonesia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dintonesia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dintonesia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+![visitcounter](https://komarev.com/ghpvc/?username=Dintonesia)
