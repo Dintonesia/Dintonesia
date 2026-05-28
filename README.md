@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Computer Engineering](Img/Computer%20Engineer%20by%20Dinto.gif)
 
-💼 I’m currently working on **@ftekuksw**
+💼 I’m currently unemployed "Searching For Work"
 
 🧑‍🎓 Studying Computer Engineer Satya Wacana Christian University
 
